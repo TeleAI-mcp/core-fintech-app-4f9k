@@ -1,2 +1,3 @@
-# core-fintech-app-4f9k
-A financial technology application for modern development workflows
+# Core Fintech App 4F9K
+
+A financial technology application for modern development workflows.
